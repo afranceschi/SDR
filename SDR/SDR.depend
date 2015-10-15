@@ -1,0 +1,789 @@
+# depslib dependency file v1.0
+1375923596 source:c:\users\agustin\dropbox\arduino\sdr\sdr.ino
+	<Arduino.h>
+	"SDR_LIB.h"
+
+1374547894 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	<pins_arduino.h>
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033133 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032829 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1374796713 c:\users\agustin\dropbox\arduino\sdr\gsmshield\sim900.h
+	"../SoftwareSerial/SoftwareSerial.h"
+	"HWSerial.h"
+	"GSM.h"
+
+1361396362 c:\users\agustin\dropbox\arduino\sdr\gsmshield\hwserial.h
+	"Arduino.h"
+	"Streaming.h"
+	<inttypes.h>
+
+1361396362 c:\users\agustin\dropbox\arduino\sdr\gsmshield\streaming.h
+	<Arduino.h>
+	"LOG.h"
+
+1361396363 c:\users\agustin\dropbox\arduino\sdr\gsmshield\log.h
+	"Arduino.h"
+
+1374809131 c:\users\agustin\dropbox\arduino\sdr\gsmshield\gsm.h
+	"../SoftwareSerial/SoftwareSerial.h"
+	<inttypes.h>
+	"WideTextFinder.h"
+	"HWSerial.h"
+
+1374796769 c:\users\agustin\dropbox\arduino\sdr\gsmshield\widetextfinder.h
+	<Arduino.h>
+	"../SoftwareSerial/SoftwareSerial.h"
+
+1375138710 c:\users\agustin\dropbox\arduino\sdr\gsmshield\sms.h
+	"SIM900.h"
+
+1362781369 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\call.cpp
+	"call.h"
+
+1361396362 c:\users\agustin\dropbox\arduino\sdr\gsmshield\call.h
+	"SIM900.h"
+
+1361396363 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\gps.cpp
+	"gps.h"
+
+1361396362 c:\users\agustin\dropbox\arduino\sdr\gsmshield\gps.h
+	"SIM900.h"
+
+1374808630 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\gsm.cpp
+	"GSM.h"
+	"WideTextFinder.h"
+
+1361396362 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\hwserial.cpp
+	"HWSerial.h"
+
+1362774551 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\inetgsm.cpp
+	"inetGSM.h"
+
+1361396362 c:\users\agustin\dropbox\arduino\sdr\gsmshield\inetgsm.h
+	"SIM900.h"
+
+1361396362 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\log.cpp
+	"LOG.h"
+
+1362780587 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\sim900.cpp
+	"SIM900.h"
+	"Streaming.h"
+
+1375138710 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\sms.cpp
+	"sms.h"
+
+1361396363 source:c:\users\agustin\dropbox\arduino\sdr\gsmshield\widetextfinder.cpp
+	"WideTextFinder.h"
+
+1355115032 source:c:\users\agustin\dropbox\arduino\sdr\softwareserial\softwareserial.cpp
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	<Arduino.h>
+	<SoftwareSerial.h>
+
+1374435225 source:c:\users\agustin\dropbox\arduino\sdr\sdr.cpp
+	"SDR.h"
+
+1374536395 c:\users\agustin\dropbox\arduino\sdr\sdr.h
+	"GSMSHIELD/sim900.h"
+	"GSMSHIELD/sms.h"
+	"Wire/Wire.h"
+
+1355115032 c:\program files (x86)\codeblocks - arduino\arduino\libraries\wire\wire.h
+	<inttypes.h>
+	"Stream.h"
+
+1376361647 c:\users\agustin\dropbox\arduino\sdr\sdr_lib.h
+	<Eprom.h>
+	"GSMSHIELD/sim900.h"
+	"GSMSHIELD/sms.h"
+	"Registro.h"
+
+1374545559 c:\users\agustin\dropbox\arduino\sdr\wire\wire.h
+	<inttypes.h>
+
+1376361989 source:c:\users\agustin\dropbox\arduino\sdr\sdr_lib.cpp
+	"SDR_LIB.h"
+
+1374545539 source:c:\users\agustin\dropbox\arduino\sdr\wire\wire.cpp
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+	"utility/twi.h"
+	"Wire.h"
+
+1368840358 c:\users\agustin\dropbox\arduino\sdr\wire\twi.h
+	<inttypes.h>
+
+1374537737 source:c:\users\agustin\dropbox\arduino\sdr\wire\twi.c
+	<math.h>
+	<stdlib.h>
+	<inttypes.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<compat/twi.h>
+	<Arduino.h>
+	"pins_arduino.h"
+	"twi.h"
+
+1374537354 source:c:\users\agustin\dropbox\arduino\sdr\wire\twi.cpp
+	<math.h>
+	<stdlib.h>
+	<inttypes.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<compat/twi.h>
+	<Arduino.h>
+	"pins_arduino.h"
+	"twi.h"
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\stdlib.h
+	<stddef.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\string.h
+	<stddef.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\math.h
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\pgmspace.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<inttypes.h>
+	<stddef.h>
+	<avr/io.h>
+
+1228437380 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io.h
+	<avr/sfr_defs.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/sfr_defs.h>
+	<avr/ioat94k.h>
+	<avr/io43u32x.h>
+	<avr/io43u35x.h>
+	<avr/io76c711.h>
+	<avr/io86r401.h>
+	<avr/io90pwm1.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm2b.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm3b.h>
+	<avr/io90pwm216.h>
+	<avr/io90pwm316.h>
+	<avr/iom32c1.h>
+	<avr/iom32m1.h>
+	<avr/iom32u4.h>
+	<avr/iom32u6.h>
+	<avr/iom128.h>
+	<avr/iom1280.h>
+	<avr/iom1281.h>
+	<avr/iom1284p.h>
+	<avr/iom2560.h>
+	<avr/iom2561.h>
+	<avr/iocan32.h>
+	<avr/iocan64.h>
+	<avr/iocan128.h>
+	<avr/iousb82.h>
+	<avr/iousb162.h>
+	<avr/iousb646.h>
+	<avr/iousb647.h>
+	<avr/iousb1286.h>
+	<avr/iousb1287.h>
+	<avr/iom64.h>
+	<avr/iom640.h>
+	<avr/iom644.h>
+	<avr/iom644.h>
+	<avr/iom645.h>
+	<avr/iom6450.h>
+	<avr/iom649.h>
+	<avr/iom6490.h>
+	<avr/iom103.h>
+	<avr/iom32.h>
+	<avr/iom323.h>
+	<avr/iom324.h>
+	<avr/iom325.h>
+	<avr/iom325.h>
+	<avr/iom3250.h>
+	<avr/iom3250.h>
+	<avr/iom328p.h>
+	<avr/iom329.h>
+	<avr/iom329.h>
+	<avr/iom3290.h>
+	<avr/iom3290.h>
+	<avr/iom32hvb.h>
+	<avr/iom406.h>
+	<avr/iom16.h>
+	<avr/iom161.h>
+	<avr/iom162.h>
+	<avr/iom163.h>
+	<avr/iom164.h>
+	<avr/iom165.h>
+	<avr/iom165p.h>
+	<avr/iom168.h>
+	<avr/iom168p.h>
+	<avr/iom169.h>
+	<avr/iom169p.h>
+	<avr/iom8hva.h>
+	<avr/iom16hva.h>
+	<avr/iom8.h>
+	<avr/iom48.h>
+	<avr/iom48p.h>
+	<avr/iom88.h>
+	<avr/iom88p.h>
+	<avr/iom8515.h>
+	<avr/iom8535.h>
+	<avr/io8535.h>
+	<avr/io8534.h>
+	<avr/io8515.h>
+	<avr/io4434.h>
+	<avr/io4433.h>
+	<avr/io4414.h>
+	<avr/iotn22.h>
+	<avr/iotn26.h>
+	<avr/io2343.h>
+	<avr/io2333.h>
+	<avr/io2323.h>
+	<avr/io2313.h>
+	<avr/iotn2313.h>
+	<avr/iotn13.h>
+	<avr/iotn13a.h>
+	<avr/iotn25.h>
+	<avr/iotn45.h>
+	<avr/iotn85.h>
+	<avr/iotn24.h>
+	<avr/iotn44.h>
+	<avr/iotn84.h>
+	<avr/iotn261.h>
+	<avr/iotn461.h>
+	<avr/iotn861.h>
+	<avr/iotn43u.h>
+	<avr/iotn48.h>
+	<avr/iotn88.h>
+	<avr/iotn167.h>
+	<avr/iotn28.h>
+	<avr/io1200.h>
+	<avr/iotn15.h>
+	<avr/iotn12.h>
+	<avr/iotn11.h>
+	<avr/iox64a1.h>
+	<avr/iox64a3.h>
+	<avr/iox128a1.h>
+	<avr/iox128a3.h>
+	<avr/iox256a3.h>
+	<avr/iox256a3b.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/fuse.h>
+	<avr/lock.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\sfr_defs.h
+	<inttypes.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\inttypes.h
+	<stdint.h>
+	<inttypes.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\stdint.h
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\portpins.h
+
+1228437380 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\common.h
+	<avr/sfr_defs.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\version.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\ioat94k.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io43u32x.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io43u35x.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io76c711.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io86r401.h
+	<avr/sfr_defs.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwm1.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwmx.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwm2b.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwm3b.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwm216.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io90pwm316.h
+
+1228425858 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32c1.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32m1.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32u4.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32u6.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom128.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom1280.h
+	<avr/iomxx0_1.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iomxx0_1.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom1281.h
+	<avr/iomxx0_1.h>
+
+1228425854 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom1284p.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom2560.h
+	<avr/iomxx0_1.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom2561.h
+	<avr/iomxx0_1.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iocan32.h
+	<avr/iocanxx.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iocanxx.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iocan64.h
+	<avr/iocanxx.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iocan128.h
+	<avr/iocanxx.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb82.h
+	<avr/iousbxx2.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousbxx2.h
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb162.h
+	<avr/iousbxx2.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb646.h
+	<avr/iousbxx6_7.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousbxx6_7.h
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb647.h
+	<avr/iousbxx6_7.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb1286.h
+	<avr/iousbxx6_7.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iousb1287.h
+	<avr/iousbxx6_7.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom64.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom640.h
+	<avr/iomxx0_1.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom644.h
+	<avr/iomxx4.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iomxx4.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom645.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom6450.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom649.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom6490.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom103.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom323.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom324.h
+	<avr/iomxx4.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom325.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom3250.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom328p.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom329.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom3290.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom32hvb.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom406.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom16.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom161.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom162.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom163.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom164.h
+	<avr/iomxx4.h>
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom165.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom165p.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom168.h
+	<avr/iomx8.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iomx8.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom168p.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom169.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom169p.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom8hva.h
+	<avr/iomxxhva.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iomxxhva.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom16hva.h
+	<avr/iomxxhva.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom8.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom48.h
+	<avr/iomx8.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom48p.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom88.h
+	<avr/iomx8.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom88p.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom8515.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iom8535.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io8535.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io8534.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io8515.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io4434.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io4433.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io4414.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn22.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn26.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io2343.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io2333.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io2323.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io2313.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn2313.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn13.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn13a.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn25.h
+	<avr/iotnx5.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotnx5.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn45.h
+	<avr/iotnx5.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn85.h
+	<avr/iotnx5.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn24.h
+	<avr/iotnx4.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotnx4.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn44.h
+	<avr/iotnx4.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn84.h
+	<avr/iotnx4.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn261.h
+	<avr/iotnx61.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotnx61.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn461.h
+	<avr/iotnx61.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn861.h
+	<avr/iotnx61.h>
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn43u.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn48.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn88.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn167.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn28.h
+
+1228437382 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\io1200.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn15.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn12.h
+
+1228437384 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iotn11.h
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox64a1.h
+	<stdint.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox64a3.h
+	<stdint.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox128a1.h
+	<stdint.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox128a3.h
+	<stdint.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox256a3.h
+	<stdint.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\iox256a3b.h
+	<stdint.h>
+
+1228437380 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\fuse.h
+	<avr/io.h>
+	<avr/io.h>
+	<avr/io.h>
+
+1228437386 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\lock.h
+	<avr/io.h>
+	<avr/io.h>
+
+1228437380 c:\program files (x86)\codeblocks - arduino\arduino\libraries\avr\interrupt.h
+	<avr/io.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\ctype.h
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\stdio.h
+	<inttypes.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+
+1374546967 c:\program files (x86)\codeblocks - arduino\arduino\libraries\compat\twi.h
+	<util/twi.h>
+
+1228437388 c:\program files (x86)\codeblocks - arduino\arduino\libraries\util\twi.h
+	<avr/io.h>
+
+1362781369 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\call.cpp
+	"call.h"
+
+1361396362 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\call.h
+	"SIM900.h"
+
+1362770123 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\sim900.h
+	<SoftwareSerial.h>
+	"HWSerial.h"
+	"GSM.h"
+
+1361396362 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\hwserial.h
+	"Arduino.h"
+	"Streaming.h"
+	<inttypes.h>
+
+1361396362 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\streaming.h
+	<Arduino.h>
+	"LOG.h"
+
+1361396363 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\log.h
+	"Arduino.h"
+
+1374432987 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\gsm.h
+	<SoftwareSerial.h>
+	<inttypes.h>
+	"WideTextFinder.h"
+	"HWSerial.h"
+
+1361396363 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\widetextfinder.h
+	<Arduino.h>
+	<SoftwareSerial.h>
+
+1361396363 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\gps.cpp
+	"gps.h"
+
+1361396362 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\gps.h
+	"SIM900.h"
+
+1374435225 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\gsm.cpp
+	"GSM.h"
+	"WideTextFinder.h"
+
+1361396362 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\hwserial.cpp
+	"HWSerial.h"
+
+1362774551 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\inetgsm.cpp
+	"inetGSM.h"
+
+1361396362 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\inetgsm.h
+	"SIM900.h"
+
+1361396362 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\log.cpp
+	"LOG.h"
+
+1362780587 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\sim900.cpp
+	"SIM900.h"
+	"Streaming.h"
+
+1374435248 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\sms.cpp
+	"sms.h"
+
+1374435225 c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\sms.h
+	"SIM900.h"
+
+1361396363 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\gsmshield\widetextfinder.cpp
+	"WideTextFinder.h"
+
+1371032642 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\wire\utility\twi.c
+	<math.h>
+	<stdlib.h>
+	<inttypes.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<compat/twi.h>
+	"Arduino.h"
+	"pins_arduino.h"
+	"twi.h"
+
+1355115034 c:\program files (x86)\codeblocks - arduino\arduino\libraries\wire\utility\twi.h
+	<inttypes.h>
+
+1374544350 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\wire\wire.cpp
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+	"utility/twi.h"
+	"Wire.h"
+
+1355115032 source:c:\program files (x86)\codeblocks - arduino\arduino\libraries\softwareserial\softwareserial.cpp
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	<Arduino.h>
+	<SoftwareSerial.h>
+
+1374546943 source:c:\users\agustin\dropbox\arduino\sdr\wire\utility\twi.c
+	<math.h>
+	<stdlib.h>
+	<inttypes.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<compat/twi.h>
+	"twi.h"
+
+1374545493 c:\users\agustin\dropbox\arduino\sdr\wire\utility\twi.h
+	<inttypes.h>
+
+1371040485 c:\program files (x86)\codeblocks - arduino\arduino\hardware\arduino\variants\plus\pins_arduino.h
+	<avr/pgmspace.h>
+
+1374547703 c:\users\agustin\dropbox\arduino\wire\wire.h
+	<inttypes.h>
+	<Stream.h>
+
+1355115032 c:\users\agustin\dropbox\arduino\sdr\softwareserial\softwareserial.h
+	<inttypes.h>
+	<Stream.h>
+
+1376357976 c:\users\agustin\dropbox\arduino\sdr\registro.h
+	"Arduino.h"
+	"Eprom.h"
+
+1376358463 source:c:\users\agustin\dropbox\arduino\sdr\registro.cpp
+	"Registro.h"
+
+1375914649 source:c:\users\agustin\dropbox\arduino\sdr\eeprom.cpp
+	"EEPROM.h"
+
+1375915501 c:\users\agustin\dropbox\arduino\sdr\eeprom.h
+	<Wire.h>
+	"Arduino.h"
+
+1375925402 c:\users\agustin\dropbox\arduino\sdr\eeprom_proto.h
+	"Arduino.h"
+	<Wire.h>
+
+1375915546 source:c:\users\agustin\dropbox\arduino\sdr\eeprom_proto.cpp
+	"EEPROM_PROTO.h"
+
+1374547703 c:\users\agustin\dropbox\arduino\sdr\wire.h
+	<inttypes.h>
+	<Stream.h>
+
+1376361328 c:\users\agustin\dropbox\arduino\sdr\eprom.h
+	<Arduino.h>
+	<Wire.h>
+
+1376361328 source:c:\users\agustin\dropbox\arduino\sdr\eprom.cpp
+	"Eprom.h"
+
